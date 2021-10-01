@@ -13,7 +13,7 @@ ul {
     overflow: hidden;
     
     /*  */
-    background-color: #333;
+    background-color: rgba(22, 22, 5, 0.096);
 }
 /* The <li> tag is used inside ordered lists(<ol>), unordered lists (<ul>), and in menu lists (<menu>). */
 li {
@@ -40,7 +40,7 @@ li a {
 /* The :hover selector is used to select elements when you mouse over them. */
 li a:hover {
     /*  */
-    background-color: #666;
+    background-color: rgb(36, 28, 28);
 }
 
 li a .active {
