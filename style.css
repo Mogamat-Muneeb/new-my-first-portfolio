@@ -69,10 +69,20 @@ body{
     border-radius: 50px;
     background-color:red;
     text-align: center;
-    margin-top: 350px
+    margin-top: 350px;
+    
 }
 p{
     font-size:larger;
     font-weight: bold;
+}
+
+
+.contact{
+    border-radius: 50%;
+    background-color:red;
+    margin-right: 50px;
+    height:350px;
+    width: 350px;
 }
 
