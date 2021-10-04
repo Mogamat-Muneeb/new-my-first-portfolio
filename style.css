@@ -23,15 +23,15 @@ ul {
 /* The <li> tag is used inside ordered lists(<ol>), unordered lists (<ul>), and in menu lists (<menu>). */
 li {
     /* The float property is used for positioning and formatting content e.g. let an image float left to the text in a container. */
-    float: left;
+    float:left;
 }
 /* The <a> tag defines a hyperlink, which is used to link from one page to another. */
 li a {
     /* The display property specifies the display behavior (the type of rendering box) of an element. */
-    display: block;
+    display:block;
     
     /*  */
-    color: rgb(8, 8, 8);
+    color: rgb(228, 5, 5);
     
     /* The text-align property specifies the horizontal alignment of text in an element. */
     text-align: center;
@@ -56,17 +56,18 @@ li a .active {
 h1{
     text-align: center;
     font-weight: bold;
+
 } 
 h2{
     text-align: center;
-    font-weight: bolder;
+    font-weight: bold;
 }
 body{
     text-align: center;
 }
 .landing{
-    border: 5px;
-    background-color: rgb(99, 207, 236);
+    border-radius: 50px;
+    background-color:red;
     text-align: center;
     margin-top: 350px
 }
@@ -74,3 +75,4 @@ p{
     font-size:larger;
     font-weight: bold;
 }
+
